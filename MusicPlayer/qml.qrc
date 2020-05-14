@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Component/BaseButton.qml</file>
+        <file>Component/RunningText.qml</file>
+        <file>Group/SystemBar.qml</file>
+        <file>Group/MenuBar.qml</file>
+        <file>Screen/PlayerScreen.qml</file>
+        <file>Group/PlayerBtnBar.qml</file>
+        <file>Group/RunningTextBar.qml</file>
+        <file>Group/MusicTimeBar.qml</file>
+        <file>Group/VolumeBar.qml</file>
+        <file>Group/RotorGroup.qml</file>
+        <file>Group/CdGroup.qml</file>
+        <file>Screen/ListScreen.qml</file>
+        <file>Group/Tabbar.qml</file>
+        <file>Group/ClearBar.qml</file>
+        <file>QmlLanguage_en.ts</file>
+        <file>QmlLanguage_ko.ts</file>
+        <file>QmlLanguage_vi.ts</file>
+        <file>QmlLanguage_en.qm</file>
+        <file>QmlLanguage_ko.qm</file>
+        <file>QmlLanguage_vi.qm</file>
+        <file>Group/SearchBar.qml</file>
+        <file>Component/Scrollsearch.qml</file>
+        <file>Screen/YesNoScreen.qml</file>
+    </qresource>
+</RCC>
